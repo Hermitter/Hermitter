@@ -1,1 +1,1 @@
-# 404 Bio Not Found :bug:
+# 404 :bug:
